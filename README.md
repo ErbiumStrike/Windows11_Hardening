@@ -143,3 +143,5 @@ While [*Hard_Configurator*](https://github.com/AndyFul/Hard_Configurator) will s
 * [Video](https://www.youtube.com/watch?v=OFEdoCWZjaI) from Matt Soseman: Hardware Isolated Browsing w/ Microsoft Defender Application Guard
 * what is meant by "[User Space](https://malwaretips.com/threads/run-by-smartscreen-utility.65145/#post-561364)"
 * what the feature "Allow apps from the store only" [does](https://malwaretips.com/threads/use-windows-10-build-in-anti-execution-options.85477/#post-752441)
+
+Block outbound and inbound connection using firewall to these LOLbins by ErbiumStrike - https://github.com/ErbiumStrike/LOLBins
