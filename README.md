@@ -57,7 +57,7 @@ While [*Hard_Configurator*](https://github.com/AndyFul/Hard_Configurator) will s
 - [ ] Deploy [Windows Security Baselines](https://learn.microsoft.com/en-us/windows/security/threat-protection/windows-security-configuration-framework/windows-security-baselines) and keep it [up-to-date](https://techcommunity.microsoft.com/t5/microsoft-security-baselines/bg-p/Microsoft-Security-Baselines)
 - [ ] Use [Mandatory Integrity Control](https://learn.microsoft.com/en-us/windows/win32/secauthz/mandatory-integrity-control)
 - [ ] Use [Security-ADMX custom template](https://github.com/Harvester57/Security-ADMX) focused on hardening Windows 10 systems
-- [ ] Block outbound and inbound connection using firewall to these LOLbins by ErbiumStrike - https://github.com/ErbiumStrike/LOLBins
+- [ ] Block outbound and inbound connections using firewall to these LOLbins by ErbiumStrike - https://github.com/ErbiumStrike/LOLBins
 
 ### Enterprises
 - [ ] [Application Control](https://learn.microsoft.com/en-us/windows/security/threat-protection/windows-defender-application-control/windows-defender-application-control) (WDAC) - Microsoft's [Policy Wizard](https://github.com/MicrosoftDocs/WDAC-Toolkit/blob/master/WDAC-Policy-Wizard/docs/getting-started/install-process.md) will help a lot
